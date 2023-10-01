@@ -9,8 +9,7 @@
 
 ## 2 主题预览 / View
 
-![](C:\Users\ASUS\Desktop\远山YuanShan.png)
-
+![](https://github.com/GRAVITYELSW/Typro-theme-YuanShan/blob/master/pic/%E8%BF%9C%E5%B1%B1YuanShan.png)
 ## 3 注意事项 / Attention
 
 + 目前只做了简单的修改，没有修改和添加任何功能
