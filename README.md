@@ -4,7 +4,7 @@
 
 + 远山是一款以中国传统颜色**青色**为主色系的typroa主题
 + 字体使用充满古风韵味的**寒蝉锦书宋**，使其与整个主题风格更加匹配
-+ Yuan Shan is a Typroa theme based on the traditional Chinese color cyan
++ YuanShan is a Typroa theme based on the traditional Chinese color cyan
 + The font uses a special Simsun full of ancient charm to make it more in line with the overall theme style
 
 ## 2 主题预览 / View
