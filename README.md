@@ -7,7 +7,7 @@
 + YuanShan is a Typroa theme based on the traditional Chinese color cyan
 + The font uses a special Simsun full of ancient charm to make it more in line with the overall theme style
 
-## 2 主题预览 / View
+## 2 主题预览 / Review
 
 ![](https://github.com/GRAVITYELSW/Typro-theme-YuanShan/blob/master/pic/%E8%BF%9C%E5%B1%B1YuanShan.png)
 ## 3 注意事项 / Attention
