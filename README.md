@@ -2,9 +2,9 @@
 
 ## 1 主题简介 / Intruction
 
-- 远山是一款灵感来源于只此青绿，以中国传统颜色**青色**为主色系的typroa主题
+- 远山是一款灵感来源于只此青绿，以中国传统颜色**青色**为主色系的typora主题
 - 字体使用充满古风韵味的**寒蝉锦书宋**，使其与整个主题风格更加匹配
-- YuanShan is a Typroa theme inspired by *Poetic Dance: The Journey of a Legendary Landscape Painting*, based on the traditional Chinese color cyan
+- YuanShan is a Typora theme inspired by *Poetic Dance: The Journey of a Legendary Landscape Painting*, based on the traditional Chinese color cyan
 - The font uses a special Simsun full of ancient charm to make it more in line with the overall theme style
 
 ## 2 主题预览 / Review
@@ -18,6 +18,6 @@
 ## 4 使用方法 / Usage
 
 1. 拉取本仓库
-2. 将assets文件夹中的内容复制到typroa主题文件夹下
-3. 在typroa中切换主题为`Yuan Shan`
+2. 将assets文件夹中的内容复制到typora主题文件夹下
+3. 在typora中切换主题为`Yuan Shan`
 
